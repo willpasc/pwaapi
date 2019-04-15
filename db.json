@@ -1,0 +1,24 @@
+{
+"products":   [
+{"id":1,"name":"Phascogale, red-tailed","category":"Indigo"},
+{"id":2,"name":"Alligator, american","category":"Puce"},
+{"id":3,"name":"Zebra, common","category":"Fuscia"},
+{"id":4,"name":"Square-lipped rhinoceros","category":"Fuscia"},
+{"id":5,"name":"Lemming, arctic","category":"Blue"},
+{"id":6,"name":"North American beaver","category":"Purple"},
+{"id":7,"name":"Hawk, ferruginous","category":"Crimson"},
+{"id":8,"name":"Owl, snowy","category":"Indigo"},
+{"id":9,"name":"Griffon vulture","category":"Violet"},
+{"id":10,"name":"Fox, bat-eared","category":"Green"},
+{"id":11,"name":"Stork, black-necked","category":"Red"},
+{"id":12,"name":"Emu","category":"Yellow"},
+{"id":13,"name":"Sunbird, lesser double-collared","category":"Puce"},
+{"id":14,"name":"Sparrow, rufous-collared","category":"Purple"},
+{"id":15,"name":"Kiskadee, great","category":"Blue"},
+{"id":16,"name":"Phalarope, grey","category":"Crimson"},
+{"id":17,"name":"Red meerkat","category":"Violet"},
+{"id":18,"name":"Cat, ringtail","category":"Turquoise"},
+{"id":19,"name":"Godwit, hudsonian","category":"Teal"},
+{"id":20,"name":"Butterfly (unidentified)","category":"Goldenrod"
+]
+}
